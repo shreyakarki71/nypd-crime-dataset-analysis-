@@ -28,8 +28,8 @@ Dataset used in this project:
 
 
 ## Additional Files
-- 📄 [Summary Report (Word)](Summary_Report.docx)  
-- 📊 [Presentation Slides (PowerPoint)](Crime_Analysis_Presentation.pptx)  
+- [Summary Report (Word)](Summary_Report.docx)  
+- [Presentation Slides (PowerPoint)](Crime_Analysis_Presentation.pptx)  
 
 
 ## How to Run
