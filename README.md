@@ -28,7 +28,7 @@ Dataset used in this project:
 
 
 ## 📂 Additional Files
-- [Final Project Summary (PDF)](final%20project%20summary.pdf)  
+- [Final Project Summary (PDF)](Final%20Project%20Summary.pdf)  
 - [Crime Presentation (PDF)](crime%20presentation.pdf)
 
 
