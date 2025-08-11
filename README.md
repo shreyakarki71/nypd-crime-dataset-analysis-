@@ -8,6 +8,9 @@ It covers:
 - Statistical summaries & visualizations
 - Predictive modeling using XGBoost
 
+## Dataset Source  
+Dataset used in this project:  
+[NYPD Complaint Data Historic – Kaggle](https://www.kaggle.com/datasets/aniket0712/nypd-complaint-data-historic) :contentReference[oaicite:2]{index=2}
 
 ## Key Findings
 - **Crime peaked** between 3–5 PM, especially on Fridays.  
