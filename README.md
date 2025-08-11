@@ -1,30 +1,50 @@
-# NYPD Crime Dataset Analysis (Python)
+# NYPD Crime Dataset Analysis (2013–2023)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyakarki71/nypd-crime-dataset-analysis-/blob/main/Final_Python_Group_assignment.ipynb)
 
-A Python-based data analysis project exploring crime trends in NYC from 2013 to 2023. The notebook includes:
+This project analyzes over 8 million NYC crime records from the [NYPD Complaint Data (Kaggle)](YOUR_KAGGLE_LINK), focusing on trends from 2013 to 2023.  
+It covers:
+- Data cleaning & preprocessing
+- Statistical summaries & visualizations
+- Predictive modeling using XGBoost
 
-- Data cleaning and preprocessing  
-- Exploratory data analysis (EDA)  
-- Visualizations and statistical summaries  
 
-##  How to Run
+## Key Findings
+- **Crime peaked** between 3–5 PM, especially on Fridays.  
+- **Significant drop in 2020**, likely due to COVID-19.  
+- **Brooklyn & Manhattan** had the highest incidents; residential areas were most common.  
+- **Ages 25–44** made up most victims & suspects; female victims were disproportionately affected.  
+- **Over 95% of crimes were completed**; attempted crimes fell from 1.95% in 2013 to 1.44% in 2023.  
+- **XGBoost model accuracy:** 67% overall (F1: 0.63) — strong for frequent crime types like *Harassment 2* and *Petit Larceny*.  
 
-1. Click the **Open in Colab** button above — no local setup needed.  
-2. Or:
-   - Download the notebook (`.ipynb`) manually  
-   - Run it using Jupyter locally with all required dependencies
 
-##  Tools Used
+## Tools & Libraries
+- **Python:** Pandas, Matplotlib, Seaborn, Folium  
+- **Machine Learning:** XGBoost, Scikit-learn  
+- **Environment:** Google Colab  
 
-| Tool         | Purpose                                   |
-|--------------|-------------------------------------------|
-| Python       | Programming language                      |
-| Pandas       | Data manipulation                         |
-| Seaborn/Matplotlib | Visualizing trends and comparisons |
-| Google Colab | Execution environment                     |
 
-## Dataset
-The dataset used in this project is from Kaggle.  
+## Additional Files
+- 📄 [Summary Report (Word)](Summary_Report.docx)  
+- 📊 [Presentation Slides (PowerPoint)](Crime_Analysis_Presentation.pptx)  
+
+
+## How to Run
+1. Click **Open in Colab** above — no installation needed.  
+2. Or download the `.ipynb` file and run locally with Jupyter Notebook.
+
+
+## Team Members
+- **Ali Adnan:** Data cleaning, Visualization, Predictive model  
+- **Shreya Karki:** Kaggle API, Data Cleaning, Statistics, Visualization  
+- **Ayushman Shrestha:** Statistics, Visualization  
+- **Hongyan Zhang:** Statistics, Visualization  
+
+## References
+- [Pandas Documentation](https://pandas.pydata.org/docs/)  
+- [Folium Heatmaps](https://python-visualization.github.io/folium/)  
+- [NYC Open Data Portal](https://opendata.cityofnewyork.us/)  
+- [XGBoost Documentation](https://xgboost.readthedocs.io/)  
+
 
 
