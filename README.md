@@ -2,7 +2,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyakarki71/nypd-crime-dataset-analysis-/blob/main/Final_Python_Group_assignment.ipynb)
 
-This project analyzes over 8 million NYC crime records from the [NYPD Complaint Data (Kaggle)](YOUR_KAGGLE_LINK), focusing on trends from 2013 to 2023.  
+This project analyzes over 8 million NYC crime records focusing on trends from 2013 to 2023.  
 It covers:
 - Data cleaning & preprocessing
 - Statistical summaries & visualizations
