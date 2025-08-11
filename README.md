@@ -27,9 +27,10 @@ Dataset used in this project:
 - **Environment:** Google Colab  
 
 
-## Additional Files
-- [Summary Report (Word)](Summary_Report.docx)  
-- [Presentation Slides (PowerPoint)](Crime_Analysis_Presentation.pptx)  
+## 📂 Additional Files
+- [Final Project Summary (PDF)](final%20project%20summary.pdf)  
+- [Crime Presentation (PDF)](crime%20presentation.pdf)
+
 
 
 ## How to Run
